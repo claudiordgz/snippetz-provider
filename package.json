@@ -1,0 +1,23 @@
+{
+  "name": "snippetz-provider",
+  "version": "0.0.1",
+  "description": "Sn!ppetz API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiordgz/snippetz-provider.git"
+  },
+  "keywords": [
+    "serverless",
+    "api"
+  ],
+  "author": "claudiordgz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudiordgz/snippetz-provider/issues"
+  },
+  "homepage": "https://github.com/claudiordgz/snippetz-provider#readme"
+}
